@@ -1,0 +1,256 @@
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (setup)
+Start time: 2024-05-15 18:49:54.252871
+Start name method: pages_init
+
+End time: 2024-05-15 18:49:54.253872
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (setup)
+Start time: 2024-05-15 18:49:54.253872
+Start name method: tests/test_filter.py::TestFilter::test_a_to_z_filter (setup)
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:54.254872
+Start name method: login
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:54.255375
+Start name method: auth
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:54.255375
+Start name method: open
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:55.067110
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:55.266043
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:55.425109
+Start name method: refresh
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_a_to_z_filter (call)
+Start time: 2024-05-15 18:49:55.498204
+Start name method: screenshot
+
+End time: 2024-05-15 18:49:55.677828
+End name method: tests/test_filter.py::TestFilter::test_a_to_z_filter (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (setup)
+Start time: 2024-05-15 18:49:59.088318
+Start name method: pages_init
+
+End time: 2024-05-15 18:50:03.175895
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (setup)
+Start time: 2024-05-15 18:50:03.176872
+Start name method: tests/test_filter.py::TestFilter::test_z_to_a_filter (setup)
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:03.176872
+Start name method: login
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:03.177875
+Start name method: auth
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:03.177875
+Start name method: open
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:03.954303
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:04.168576
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:04.337939
+Start name method: refresh
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_z_to_a_filter (call)
+Start time: 2024-05-15 18:50:04.402340
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:04.567454
+End name method: tests/test_filter.py::TestFilter::test_z_to_a_filter (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (setup)
+Start time: 2024-05-15 18:50:07.935311
+Start name method: pages_init
+
+End time: 2024-05-15 18:50:12.036301
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (setup)
+Start time: 2024-05-15 18:50:12.036301
+Start name method: tests/test_filter.py::TestFilter::test_low_to_high_filter (setup)
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:12.037311
+Start name method: login
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:12.037311
+Start name method: auth
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:12.037311
+Start name method: open
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:12.781207
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:13.003364
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:13.156738
+Start name method: refresh
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_low_to_high_filter (call)
+Start time: 2024-05-15 18:50:13.223245
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:13.379724
+End name method: tests/test_filter.py::TestFilter::test_low_to_high_filter (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (setup)
+Start time: 2024-05-15 18:50:16.739692
+Start name method: pages_init
+
+End time: 2024-05-15 18:50:20.801135
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (setup)
+Start time: 2024-05-15 18:50:20.802133
+Start name method: tests/test_filter.py::TestFilter::test_high_to_low_filter (setup)
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:20.802133
+Start name method: login
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:20.803133
+Start name method: auth
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:20.803133
+Start name method: open
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:21.574565
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:21.793093
+Start name method: screenshot
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:21.954855
+Start name method: refresh
+
+
+-----
+Test: tests/test_filter.py::TestFilter::test_high_to_low_filter (call)
+Start time: 2024-05-15 18:50:22.023019
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:22.195546
+End name method: tests/test_filter.py::TestFilter::test_high_to_low_filter (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----

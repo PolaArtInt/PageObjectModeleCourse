@@ -1,0 +1,348 @@
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (setup)
+Start time: 2024-05-15 18:52:24.403961
+Start name method: pages_init
+
+End time: 2024-05-15 18:52:24.404961
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (setup)
+Start time: 2024-05-15 18:52:24.404961
+Start name method: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (setup)
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:24.405961
+Start name method: login
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:24.405961
+Start name method: auth
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:24.405961
+Start name method: open
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:25.243645
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:25.393480
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:25.529437
+Start name method: hover
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (call)
+Start time: 2024-05-15 18:52:25.529437
+Start name method: screenshot
+
+End time: 2024-05-15 18:52:25.675648
+End name method: tests/test_menu.py::TestMenu::test_hover_on_menu_and_close (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (setup)
+Start time: 2024-05-15 18:52:29.064199
+Start name method: pages_init
+
+End time: 2024-05-15 18:52:33.137656
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (setup)
+Start time: 2024-05-15 18:52:33.138657
+Start name method: tests/test_menu.py::TestMenu::test_positive_logout (setup)
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:33.139665
+Start name method: login
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:33.139665
+Start name method: auth
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:33.140666
+Start name method: open
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:33.850016
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:35.069067
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_logout (call)
+Start time: 2024-05-15 18:52:35.169305
+Start name method: get_url
+
+End time: 2024-05-15 18:52:35.199441
+End name method: tests/test_menu.py::TestMenu::test_positive_logout (setup)
+URL: https://www.saucedemo.com/v1/index.html
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (setup)
+Start time: 2024-05-15 18:52:38.516995
+Start name method: pages_init
+
+End time: 2024-05-15 18:52:42.589704
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (setup)
+Start time: 2024-05-15 18:52:42.590655
+Start name method: tests/test_menu.py::TestMenu::test_positive_about_btn (setup)
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:42.591655
+Start name method: login
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:42.592655
+Start name method: auth
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:42.592655
+Start name method: open
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:43.427315
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:43.598870
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:46.014373
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_positive_about_btn (call)
+Start time: 2024-05-15 18:52:46.250782
+Start name method: get_url
+
+End time: 2024-05-15 18:52:46.271378
+End name method: tests/test_menu.py::TestMenu::test_positive_about_btn (setup)
+URL: https://saucelabs.com/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (setup)
+Start time: 2024-05-15 18:52:49.956560
+Start name method: pages_init
+
+End time: 2024-05-15 18:52:54.055055
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (setup)
+Start time: 2024-05-15 18:52:54.056039
+Start name method: tests/test_menu.py::TestMenu::test_reset_app_state_positive (setup)
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:54.057039
+Start name method: login
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:54.057039
+Start name method: auth
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:54.057039
+Start name method: open
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:54.896955
+Start name method: screenshot
+
+End time: 2024-05-15 18:52:55.077000
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:55.148523
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:55.317730
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:55.466242
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:55.592699
+Start name method: refresh
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_positive (call)
+Start time: 2024-05-15 18:52:55.661088
+Start name method: screenshot
+
+End time: 2024-05-15 18:52:55.821027
+End name method: tests/test_menu.py::TestMenu::test_reset_app_state_positive (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (setup)
+Start time: 2024-05-15 18:52:59.179138
+Start name method: pages_init
+
+End time: 2024-05-15 18:53:03.254867
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (setup)
+Start time: 2024-05-15 18:53:03.255897
+Start name method: tests/test_menu.py::TestMenu::test_reset_app_state_negative (setup)
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:03.256898
+Start name method: login
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:03.256898
+Start name method: auth
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:03.257902
+Start name method: open
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.035796
+Start name method: screenshot
+
+End time: 2024-05-15 18:53:04.231467
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.305872
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.474685
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.630728
+Start name method: screenshot
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.766078
+Start name method: refresh
+
+
+-----
+Test: tests/test_menu.py::TestMenu::test_reset_app_state_negative (call)
+Start time: 2024-05-15 18:53:04.840300
+Start name method: screenshot
+
+End time: 2024-05-15 18:53:05.008342
+End name method: tests/test_menu.py::TestMenu::test_reset_app_state_negative (setup)
+URL: https://www.saucedemo.com/v1/inventory.html
+
+-----

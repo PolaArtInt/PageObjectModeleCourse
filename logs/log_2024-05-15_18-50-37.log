@@ -1,0 +1,126 @@
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (setup)
+Start time: 2024-05-15 18:50:38.523904
+Start name method: pages_init
+
+End time: 2024-05-15 18:50:38.524905
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (setup)
+Start time: 2024-05-15 18:50:38.524905
+Start name method: tests/test_item_card.py::TestItem::test_click_on_item_img (setup)
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:38.525905
+Start name method: login
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:38.526517
+Start name method: auth
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:38.526517
+Start name method: open
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:39.359587
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:39.552712
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:39.652347
+Start name method: screenshot
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_img (call)
+Start time: 2024-05-15 18:50:39.803268
+Start name method: get_url
+
+End time: 2024-05-15 18:50:39.809846
+End name method: tests/test_item_card.py::TestItem::test_click_on_item_img (setup)
+URL: https://www.saucedemo.com/v1/inventory-item.html?id=1
+
+-----
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (setup)
+Start time: 2024-05-15 18:50:43.147020
+Start name method: pages_init
+
+End time: 2024-05-15 18:50:47.230229
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (setup)
+Start time: 2024-05-15 18:50:47.230229
+Start name method: tests/test_item_card.py::TestItem::test_click_on_item_title (setup)
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:47.231238
+Start name method: login
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:47.231238
+Start name method: auth
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:47.231238
+Start name method: open
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:47.946627
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:48.136874
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:48.244712
+Start name method: get_url
+
+
+-----
+Test: tests/test_item_card.py::TestItem::test_click_on_item_title (call)
+Start time: 2024-05-15 18:50:48.249768
+Start name method: screenshot
+
+End time: 2024-05-15 18:50:48.377387
+End name method: tests/test_item_card.py::TestItem::test_click_on_item_title (setup)
+URL: https://www.saucedemo.com/v1/inventory-item.html?id=5
+
+-----

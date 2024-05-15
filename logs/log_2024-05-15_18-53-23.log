@@ -1,0 +1,187 @@
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (setup)
+Start time: 2024-05-15 18:53:25.176901
+Start name method: pages_init
+
+End time: 2024-05-15 18:53:25.177903
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (setup)
+Start time: 2024-05-15 18:53:25.177903
+Start name method: fake
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (setup)
+Start time: 2024-05-15 18:53:25.234420
+Start name method: tests/test_purchase.py::TestOrder::test_positive_order (setup)
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:25.235420
+Start name method: login
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:25.235420
+Start name method: auth
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:25.235420
+Start name method: open
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:26.014968
+Start name method: screenshot
+
+End time: 2024-05-15 18:53:26.195771
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:26.268277
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:26.912960
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:27.095351
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:27.279416
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:27.475334
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:27.703858
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_positive_order (call)
+Start time: 2024-05-15 18:53:27.808977
+Start name method: get_url
+
+End time: 2024-05-15 18:53:27.827601
+End name method: tests/test_purchase.py::TestOrder::test_positive_order (setup)
+URL: https://www.saucedemo.com/v1/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (setup)
+Start time: 2024-05-15 18:53:31.159555
+Start name method: pages_init
+
+End time: 2024-05-15 18:53:35.235427
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (setup)
+Start time: 2024-05-15 18:53:35.235427
+Start name method: fake
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (setup)
+Start time: 2024-05-15 18:53:35.291434
+Start name method: tests/test_purchase.py::TestOrder::test_negative_empty_order (setup)
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:35.291434
+Start name method: login
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:35.292434
+Start name method: auth
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:35.292434
+Start name method: open
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:36.200904
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:36.440113
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:36.647324
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:36.830791
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:37.033780
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:37.279029
+Start name method: screenshot
+
+
+-----
+Test: tests/test_purchase.py::TestOrder::test_negative_empty_order (call)
+Start time: 2024-05-15 18:53:37.377960
+Start name method: get_url
+
+End time: 2024-05-15 18:53:37.385955
+End name method: tests/test_purchase.py::TestOrder::test_negative_empty_order (setup)
+URL: https://www.saucedemo.com/v1/checkout-complete.html
+
+-----

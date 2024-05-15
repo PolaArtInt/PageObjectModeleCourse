@@ -1,0 +1,276 @@
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (setup)
+Start time: 2024-05-15 19:03:28.069815
+Start name method: pages_init
+
+End time: 2024-05-15 19:03:28.069815
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (setup)
+Start time: 2024-05-15 19:03:28.070815
+Start name method: tests/test_cart.py::TestCart::test_add_to_cart (setup)
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:28.070815
+Start name method: login
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:28.071922
+Start name method: auth
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:28.071922
+Start name method: open
+
+End time: 2024-05-15 19:03:30.909968
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:30.970777
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:31.599802
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_to_cart (call)
+Start time: 2024-05-15 19:03:31.737416
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:31.838678
+End name method: tests/test_cart.py::TestCart::test_add_to_cart (setup)
+URL: https://www.saucedemo.com/v1/cart.html
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (setup)
+Start time: 2024-05-15 19:03:35.132328
+Start name method: pages_init
+
+End time: 2024-05-15 19:03:39.241304
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (setup)
+Start time: 2024-05-15 19:03:39.242340
+Start name method: tests/test_cart.py::TestCart::test_remove_from_cart (setup)
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:39.243337
+Start name method: login
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:39.244337
+Start name method: auth
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:39.244337
+Start name method: open
+
+End time: 2024-05-15 19:03:40.159484
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:40.262587
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:40.512384
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_from_cart (call)
+Start time: 2024-05-15 19:03:40.670050
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:40.774788
+End name method: tests/test_cart.py::TestCart::test_remove_from_cart (setup)
+URL: https://www.saucedemo.com/v1/cart.html
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (setup)
+Start time: 2024-05-15 19:03:44.048977
+Start name method: pages_init
+
+End time: 2024-05-15 19:03:48.100577
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (setup)
+Start time: 2024-05-15 19:03:48.100577
+Start name method: tests/test_cart.py::TestCart::test_add_item_from_item_card (setup)
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:48.101637
+Start name method: login
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:48.102636
+Start name method: auth
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:48.102636
+Start name method: open
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:48.920842
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:49.065443
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:49.165980
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:49.348375
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:49.565243
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:49.673858
+Start name method: get_url
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_add_item_from_item_card (call)
+Start time: 2024-05-15 19:03:49.701009
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:49.797832
+End name method: tests/test_cart.py::TestCart::test_add_item_from_item_card (setup)
+URL: https://www.saucedemo.com/v1/cart.html
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (setup)
+Start time: 2024-05-15 19:03:53.086810
+Start name method: pages_init
+
+End time: 2024-05-15 19:03:57.136505
+End name method: pages_init
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (setup)
+Start time: 2024-05-15 19:03:57.136505
+Start name method: tests/test_cart.py::TestCart::test_remove_item_from_item_card (setup)
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:57.137526
+Start name method: login
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:57.137526
+Start name method: auth
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:57.137526
+Start name method: open
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:57.930286
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:58.087366
+End name method: rand_num
+URL: https://www.saucedemo.com/v1/
+
+-----
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:58.140355
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:58.365493
+Start name method: screenshot
+
+
+-----
+Test: tests/test_cart.py::TestCart::test_remove_item_from_item_card (call)
+Start time: 2024-05-15 19:03:58.560522
+Start name method: screenshot
+
+End time: 2024-05-15 19:03:58.697734
+End name method: tests/test_cart.py::TestCart::test_remove_item_from_item_card (setup)
+URL: https://www.saucedemo.com/v1/inventory-item.html?id=0
+
+-----
